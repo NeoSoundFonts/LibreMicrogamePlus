@@ -1,0 +1,10 @@
+* text=auto
+
+*.xpf text eol=lf
+
+*.sf2 binary
+*.xiz binary
+*.omp binary
+*.fxp binary
+*.wav binary
+*.flac binary
