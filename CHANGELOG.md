@@ -4,6 +4,7 @@
 - Added Big Lead.
 - Renamed WarioVoice to MicrogameVoice to get rid copyright-referenced names.
 - Moved MicrogameVoice to Bank 1.
+- Added Choir Aahs from Aspirin DX FT.
 
 # 2026-08-17
 
