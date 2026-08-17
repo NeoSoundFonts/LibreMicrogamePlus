@@ -1,3 +1,10 @@
+# 2026-08-18
+
+- Added MellowGuitar Vib.
+- Added Big Lead.
+- Renamed WarioVoice to MicrogameVoice to get rid copyright-referenced names.
+- Moved MicrogameVoice to Bank 1.
+
 # 2026-08-17
 
 - Added Voice Daow.
