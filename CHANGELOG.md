@@ -1,3 +1,9 @@
+# 2026-08-19
+
+- Added Square Wave.
+- Moved Solo Square Wave to bank 1.
+- Added one layer for MellowGuitar Vib.
+
 # 2026-08-18
 
 - Added MellowGuitar Vib.
