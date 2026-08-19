@@ -4,7 +4,8 @@
 - Moved Solo Square Wave to bank 1.
 - Added one layer for MellowGuitar Vib.
 - Added VSCO-2 CE Orchestral Harp, using Aspirin DX FT version.
-- Added VSCO-2 CE Strings, using Aspirin DX FT version.
+- Added two different VSCO-2 CE Strings.
+- Added another Square Lead which imported from LightSolaris.
 
 # 2026-08-18
 
