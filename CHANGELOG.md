@@ -6,6 +6,7 @@
 - Added VSCO-2 CE Orchestral Harp, using Aspirin DX FT version.
 - Added two different VSCO-2 CE Strings.
 - Added another Square Lead which imported from LightSolaris.
+- Added Sine Wave.
 
 # 2026-08-18
 
