@@ -1,3 +1,7 @@
+# 2026-08-20
+
+- Changed Saw Wave.
+
 # 2026-08-19
 
 - Added Square Wave.
